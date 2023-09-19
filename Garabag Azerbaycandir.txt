@@ -1,0 +1,44 @@
+<!--
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[+] Anti-armenia Team | Azerbaijan Cyber Army                    |
+[+] anti-armenia.org                                             |
+[+] Ferid23 - T43RIZ - Elgun33 - Cyberruf - Ox03 - HankeR77      |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hacked by Anti-armenia Team | Anti-armenia.ORG | Anti-armenia.INFO | Anti-armenia.COM | Anti-armenia.BIZ | Anti-armenia.NET</title>
+<link rel="shortcut icon" href="https://i.hizliresim.com/ie63zh4.gif" />
+</head>
+<body>       
+<div class="imagehold">
+<center>
+      <style>
+      body { background: black;background-image: url('https://i.imgur.com/H2vSvPm.png');position: relative; background-repeat: no-repeat; background-size: cover;font-family: Courier new; color: white; text-align: center; font-size:77%; margin-top: 1%; }
+      footer { position: fixed; left: 0px; right: 0px; bottom: 0px; background: white; text-align: center; border-top: 1px solid white; border-bottom: 1px solid white; } #s0 { text-align: left; opacity: 0; }
+     </style>
+<img src="https://i.imgur.com/kZjugGt.png" width="350" height="160">
+<br>
+<br>
+<br>
+</div>   
+<img src="https://i.imgur.com/cdblHve.png" width="1590" height="291">
+</center>   
+</body>
+<br>
+<br>
+<div style="color:white;font:20pt Courier New;">
+         <b>- Karabakh is Azerbaijan! -</b>
+         <br>
+     </div>
+     <div style="color:white;font:15pt Courier New;">
+         <span style="color:#d5d5d5;">Ferid23 - T43RIZ - Elgun33 - Cyberruf - Ox03 - HankeR77</span>
+     </div>
+     <br>
+    <div style="color:white;font:13pt Courier New;">Hacked by: </font>
+        <font color="#FF0000"> Anti-armenia Team</font>
+    </div>
+        <br>
+</div>
+</html>
