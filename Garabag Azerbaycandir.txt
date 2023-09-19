@@ -32,9 +32,7 @@
          <b>- Karabakh is Azerbaijan! -</b>
          <br>
      </div>
-     <div style="color:white;font:15pt Courier New;">
-         <span style="color:#d5d5d5;">Ferid23 - T43RIZ - Elgun33 - Cyberruf - Ox03 - HankeR77</span>
-     </div>
+     
      <br>
     <div style="color:white;font:13pt Courier New;">Hacked by: </font>
         <font color="#FF0000"> Anti-armenia Team</font>
